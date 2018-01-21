@@ -40,8 +40,8 @@ You need to have the following things installed:
 Clone the Prisma monorepo and navigate to this directory or download _only_ this example with the following command:
 
 ```sh
-curl https://codeload.github.com/graphcool/prisma/tar.gz/master | tar -xz --strip=2 prisma-master/examples/1.0/permissions
-cd 1.0/permissions
+curl https://codeload.github.com/graphcool/prisma/tar.gz/master | tar -xz --strip=2 prisma-master/examples/permissions
+cd permissions
 ```
 
 ### 2. Deploy the Prisma database service
